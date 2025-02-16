@@ -3,7 +3,9 @@
 
 https://www.mesmapp.com
 
-![画像の説明](https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png)
+![MeSM Logo](https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png
+
+
 
 
 
