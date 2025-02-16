@@ -3,6 +3,6 @@
 
 https://www.mesmapp.com
 
-![画像の説明]([https://user-images.githubusercontent.com/12345678/xxxxxxx.png](https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png))
+![画像の説明]([https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png])
 
 
