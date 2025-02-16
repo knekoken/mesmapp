@@ -3,3 +3,6 @@
 
 https://www.mesmapp.com
 
+<img src="[images/logo.png](https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png)" alt="ロゴ" width="600">
+
+
