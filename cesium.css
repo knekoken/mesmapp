@@ -1,0 +1,71 @@
+/*infoBoxのカメラのロゴ*/
+button.cesium-infoBox-camera {
+    display: none; /* 不要のため非表示 */
+}
+  
+/*CesiumJSロゴの非表示*/
+.cesium-credit-logoContainer {
+  /*  visibility: hidden; */ /* ロゴを非表示 */
+    visibility: visible; /* ロゴを表示 */
+}
+
+.cesium-infoBox {
+    display: block;
+    position: absolute;
+    top: 160px; /*位置*/
+    box-shadow: 3px 3px 3px 3px rgba(28, 28, 28, 0.7); /*infoboxに付ける影*/
+    color: #ffffff; /*infoboxのタイトル色*/
+    transform: translate(-2%, 0); /*原位置からの移動*/
+    transition: visibility 0s 0.0s, opacity 0.3s ease-in, transform 0.2s ease-in;
+    opacity: 0.9;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    z-index: 2000; /* インフォボックスのz-indexを上げる */
+}
+    
+/*infoboxのタイトル*/
+.cesium-infoBox-title {
+    font-size: larger;
+    padding: 5px 30px 5px 25px;
+    height: 25px;
+}
+    
+.cesium-infoBox-defaultTable tr:nth-child(odd) {
+    background-color: rgba(84, 84, 84, 0.8);
+}
+    
+.cesium-infoBox-defaultTable tr:nth-child(even) {
+    background-color: rgba(84, 84, 84, 0.8);
+}
+    
+.cesium-infoBox-defaultTable-lighter tr:nth-child(odd) {
+    background-color: rgba(84, 84, 84, 0.8);
+}
+    
+.cesium-infoBox-defaultTable-lighter tr:nth-child(even) {
+    background-color: rgba(84, 84, 84, 0.8);
+}
+    
+.cesium-infoBox-defaultTable {
+    width: 100%;
+    color: #198989;
+}
+    
+/*CesiumJSのタイムライン*/
+.cesium-timeline-bar {
+/*   background-color: #ffffff89; *//* 暗い背景色 */
+    background: rgba(47, 47, 47, 0.4); /* バーの色を変更し、透明度を設定 */
+}
+.cesium-timeline-ticLabel {
+    color: #c9c9c9b7; /* より暗いテキスト色で目盛りを表示 */
+}
+
+/* ツールバーアイコンの大きさを小さくするカスタムCSS */
+.cesium-viewer-toolbar .cesium-button {
+    width: 24px; /* デフォルトは48px */
+    height: 24px; /* デフォルトは48px */
+}
+.cesium-viewer-toolbar .cesium-button::before {
+    font-size: 16px; /* デフォルトは24px */
+}
+
