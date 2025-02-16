@@ -3,7 +3,7 @@
 
 https://www.mesmapp.com
 
-![MeSM Logo](https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png
+![MeSM Logo](https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png)
 
 
 
