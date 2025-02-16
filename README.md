@@ -3,7 +3,8 @@
 
 https://www.mesmapp.com
 
-<img src="[https://www.mesmapp.com/Source/Images/ImagesOfMeSM.png](https://github.com/knekoken/mesmapp/issues/1#issue-2855972870)" alt="MeSM Logo" width="300">
+https://github.com/knekoken/mesmapp/issues/1#issue-2855972870
+
 
 
 
