@@ -28,9 +28,9 @@ https://www.mesmapp.com
     <li>指定緊急避難場所の表示には，<a href="https://www.gsi.go.jp/bousaichiri/hinanbasho.html" target="_blank" style="color:orange; text-decoration: none;">国土地理院のデータ</a>を用いています。</li>
     <li>避難場所（東京都）の表示には，<a href="https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d0000000093" target="_blank" style="color:orange; text-decoration: none;">東京オープンデータカタログ</a>を用いています。</li>
     <li>自然災害伝承碑の表示には，<a href="https://www.gsi.go.jp/bousaichiri/denshouhi_datainfo.html" target="_blank" style="color:orange; text-decoration: none;">国土地理院のデータ</a>を用いています。</li>
-    <li>緊急輸送道路の表示には，<a hrefA="https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N10-v1_1.html" target="_blank" style="color:orange; text-decoration: none;">国土数値情報ダウンロードサイトのデータ</a>を用いています。</li>
-    <li>世界の地震の表示には，<a hrefA="https://earthquake.usgs.gov/data/comcat/" target="_blank" style="color:orange; text-decoration: none;">USGSが配信しているデータ</a>を用いています。</li>
-    <li>地形データは，<a hrefA="https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/terrain/plateau-terrain-streaming.md" target="_blank" style="color:orange; text-decoration: none;">測量法に基づく国土地理院長承認（使用）R3JHs 778</a>を得て使用しました。</li>
+    <li>緊急輸送道路の表示には，<a href="https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N10-v1_1.html" target="_blank" style="color:orange; text-decoration: none;">国土数値情報ダウンロードサイトのデータ</a>を用いています。</li>
+    <li>世界の地震の表示には，<a href="https://earthquake.usgs.gov/data/comcat/" target="_blank" style="color:orange; text-decoration: none;">USGSが配信しているデータ</a>を用いています。</li>
+    <li>地形データは，<a href="https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/terrain/plateau-terrain-streaming.md" target="_blank" style="color:orange; text-decoration: none;">測量法に基づく国土地理院長承認（使用）R3JHs 778</a>を得て使用しました。</li>
     <!--   <li>指定緊急避難場所の画像は，<a href="https://www.town.ino.kochi.jp/bousai/shoubou_hinan/1727/" target="_blank" style="color:orange; text-decoration: none;">いの町のWebサイト</a>で提供されているファイルを利用しています。</li> -->
 </ul>
 
