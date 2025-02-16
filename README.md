@@ -4,10 +4,10 @@
 https://www.mesmapp.com
 
 サービス名は，下記から由来しています。
-- Machine Learning Enhanced Structural Monitoring
-- Mega Scale Monitoring
-- Multi-scale Enhanced Structural Monitoring
-- Metropolitan Scale Monitoring
+- **M**achine Learning **E**nhanced **S**tructural **M**onitoring
+- **Me**ga **S**cale **M**onitoring
+- **M**ulti-scale **E**nhanced **S**tructural **M**onitoring
+- **Me**tropolitan **S**cale **M**onitoring
 
 <h2 style="color:rgba(255, 255, 255, 0.411)">Webサービスのイメージ</h2>
 
