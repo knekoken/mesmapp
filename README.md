@@ -1,7 +1,7 @@
 # mesmapp powered by CesiumJS
 地震に関するオープンデータをWebGISで3次元的に可視化して，防災に対する理解を深めるWebサービス
 
-    https://www.mesmapp.com
+    [URL](https://www.mesmapp.com)
 
 
 サービス名は，下記から由来しています。
